@@ -14,7 +14,6 @@ yarn install
 * [Drawer Navigator](https://reactnavigation.org/docs/drawer-navigator/)
 * [Animated](https://reactnative.dev/docs/animated)
 
-
 ## Example
 
-![Navigation](anotation.jpg?raw=true "Navigation")
+![Alt text] (anotation.png)
