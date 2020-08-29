@@ -16,4 +16,4 @@ yarn install
 
 ## Example
 
-![Alt text] (anotation.png)
+
